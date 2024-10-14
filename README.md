@@ -6,7 +6,7 @@ Here's an updated version of your introduction:
 - 💞️ I’m looking to collaborate on projects related to software development or machine learning
 - 📫 How to reach me: wang.sit@northeastern.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I enjoy combining creativity with coding and hippop dancing!
+  
 
 <!---
 Sting6-6code/Sting6-6code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

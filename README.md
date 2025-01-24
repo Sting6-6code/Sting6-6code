@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @Sting6-6code (a.k.a. Ceclia Wang)
+- 👋 Hi, I’m @Sting6-6code (a.k.a. Cecilia Wang)
 - 🚀 Aspiring Full-Stack Developer | Enthusiastic about AI
 - 🌱 Currently diving into Java, Python, Web Development, and AI
 - 💡 Dreaming of building my own web universe 🌍✨
